@@ -19,8 +19,8 @@ src="https://raw.githubusercontent.com/tyde81/tyde81/5b9bfe3a115f0964b9766208879
 
 ####  👤 Contacts
 
-Discord: tyde#5320
-Email: tyde81@protonmail.com
+<p>Discord: tyde#5320</p>
+<p>Email: tyde81@protonmail.com</p>
 
 #### 📈 My stats
 
