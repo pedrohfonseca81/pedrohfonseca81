@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hey there 👋!
 
-<!--
-**tyde81/tyde81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+Hi, my name is Pedro Henrique, I am a software development student. I love tech and cats! 🚀🐈
 
-Here are some ideas to get you started:
+<img 
+alt="illustration"
+align="right"
+width="250"
+src="https://raw.githubusercontent.com/tyde81/tyde81/5b9bfe3a115f0964b9766208879e8b8c0f937297/icons/illustration.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ I know
+
+![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/nodejs.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/typescript.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/react.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/vue.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/html.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/css.png)
+
+#### 📚 I am learning
+![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/elixir.png)![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/phoenix.png)
+
+####  👤 Contacts
+
+Discord: tyde#5320
+Email: tyde81@protonmail.com
+
+#### 📈 My stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tyde81&show_icons=true&theme=dark" />
+</p>
