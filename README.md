@@ -26,5 +26,5 @@ src="https://raw.githubusercontent.com/tyde81/tyde81/5b9bfe3a115f0964b9766208879
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tyde81&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyde81&layout=compact&langs_count=7&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyde81&theme=dark" />
 </p>
