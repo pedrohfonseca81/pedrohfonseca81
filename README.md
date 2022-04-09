@@ -12,10 +12,11 @@ src="https://raw.githubusercontent.com/tyde81/tyde81/5b9bfe3a115f0964b9766208879
 
 ### 🛠️ I know
 
+![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/elixir.png)
 ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/nodejs.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/typescript.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/react.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/vue.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/html.png) ![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/css.png)
 
 ### 📚 I am learning
-![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/elixir.png)![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/phoenix.png)
+![](https://raw.githubusercontent.com/tyde81/tyde81/main/icons/phoenix.png)
 
 ###  👤 Contacts
 
