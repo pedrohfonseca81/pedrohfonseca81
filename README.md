@@ -22,6 +22,7 @@ src="https://raw.githubusercontent.com/tyde81/tyde81/5b9bfe3a115f0964b9766208879
 
 <p>Discord: tyde#5320<p>
 <p>Email: tyde81@protonmail.com</p>
+<a href="https://www.linkedin.com/in/pedro-henrique-fonseca-991812206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 📈 My stats
 
