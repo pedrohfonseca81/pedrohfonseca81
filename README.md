@@ -12,10 +12,3 @@ Hi, my name is Pedro Henrique, I am a software engineer student.
 ###  👤 Contacts
 
 <a href="https://www.linkedin.com/in/pedro-henrique-fonseca-991812206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-### 📈 My stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tyde81&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyde81&theme=dark" />
-</p>
