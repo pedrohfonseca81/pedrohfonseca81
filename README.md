@@ -22,30 +22,34 @@ Beyond my daily stack, I am passionate about software architecture and the funct
 ## Social
 
 <div style="display: flex; gap: 4px">
-
 <a href="https://www.linkedin.com/in/pedro-henrique-fonseca-991812206/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin"></a>
-
 <a href="https://www.linkedin.com/in/pedro-henrique-fonseca-991812206/">
 <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=website"></a>
-
 <a href="mailto:pedrohfonseca.1981@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=flat&logo=email"></a><br>
+<img src="https://img.shields.io/badge/Email-000000?style=flat&logo=email"></a>
 </div>
 
 ## Projects
 
-### Fluxia
+### 🧪 [Fluxia](https://github.com/pedrohfonseca81/fluxia)
+An experimental functional programming language implemented in **Haskell**, designed to transpile to the **BEAM** virtual machine.
+* **Features:** Type inference, Pattern matching, and Immutability.
+* **Focus:** Exploring simplicity and BEAM concurrency.
 
-Fluxia is a programming language implemented in Haskell, designed to transpile to the BEAM virtual machine.
+### 🎨 [The Big Drawing](https://github.com/pedrohfonseca81/the_big_drawing)
+A massive, real-time collaborative pixel art canvas where users can draw together simultaneously.
+* **Tech Stack:** Elixir, Phoenix LiveView.
+* **Highlights:** Real-time synchronization and high concurrency handling.
 
-#### Features
+### 📊 [Ex_IBGE](https://github.com/pedrohfonseca81/ex_ibge)
+A modern Elixir client for accessing geographic and statistical data from the IBGE API.
+* **Tech Stack:** Elixir.
+* **Goal:** Provide an idiomatic and efficient way to consume Brazilian demographic data.
 
-- Type inference
-- Pattern matching
-- Immutability
+### 🎵 [My Spotify Stats](https://github.com/pedrohfonseca81/my-spotify-stats)
+A modern web interface to explore your top artists, tracks, and musical habits.
+* **Tech Stack:** Vue.js, Spotify API.
+* **Features:** Data visualization of personal listening history.
 
-<a href="https://github.com/pedrohfonseca81/fluxia">
-<img src="https://img.shields.io/badge/-Repository%20Link-000000?style=flat&logo=github" height="25"></a>
-
-#### 
+---
