@@ -24,7 +24,7 @@ Beyond my daily stack, I am passionate about software architecture and the funct
 <div style="display: flex; gap: 4px">
 <a href="https://www.linkedin.com/in/pedro-henrique-fonseca-991812206/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-fonseca-991812206/">
+<a href="https://pedrofonseca.fly.dev/">
 <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=website"></a>
 <a href="mailto:pedrohfonseca.1981@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=email"></a>
