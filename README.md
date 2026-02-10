@@ -32,6 +32,11 @@ Beyond my daily stack, I am passionate about software architecture and the funct
 
 ## Projects
 
+### 🆘 [Resk.us](https://github.com/pedrohfonseca81/resk.us)
+A project dedicated to **helping the community** through real-time disaster monitoring and emergency shelter management, built for the [**NASA Space Apps Challenge**](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/data-for-community-change/?tab=members).
+* **Tech Stack:** Python (FastAPI), Nuxt 3, Leaflet.
+* **Features:** Interactive disaster maps, fire tracking, and shelter capacity management.
+
 ### 🧪 [Fluxia](https://github.com/pedrohfonseca81/fluxia)
 An experimental functional programming language implemented in **Haskell**, designed to transpile to the **BEAM** virtual machine.
 * **Features:** Type inference, Pattern matching, and Immutability.
@@ -51,5 +56,3 @@ A modern Elixir client for accessing geographic and statistical data from the IB
 A modern web interface to explore your top artists, tracks, and musical habits.
 * **Tech Stack:** Vue.js, Spotify API.
 * **Features:** Data visualization of personal listening history.
-
----
