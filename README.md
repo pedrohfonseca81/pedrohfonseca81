@@ -10,14 +10,21 @@ Beyond my daily stack, I am passionate about software architecture and the funct
 
 ## Skills
 
+**Core Stack**<br>
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=Laravel)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
-![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=Elixir)
-![Phoenix](https://img.shields.io/badge/-Phoenix-000000?style=flat&logo=Phoenix)
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+
+**Functional & Architecture**<br>
+![Elixir](https://img.shields.io/badge/-Elixir-000000?style=flat&logo=Elixir)
+![Phoenix](https://img.shields.io/badge/-Phoenix-000000?style=flat&logo=Phoenix)
+![Haskell](https://img.shields.io/badge/-Haskell-000000?style=flat&logo=haskell)
+
+**Databases & Ops**<br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
 ## Social
 
