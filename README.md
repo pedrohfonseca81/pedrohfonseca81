@@ -4,7 +4,7 @@
 - 🚀 λ Functional Programming Enthusiast.<br>
 - 🪐 Love music and cats.<br>
 
-I am a Back-End Developer experienced in building robust applications using PHP (Laravel), Node.js, and Vue.js.
+I am a Full-Stack Developer experienced in building robust applications using PHP (Laravel), Node.js, and Vue.js.
 
 Beyond my daily stack, I am passionate about software architecture and the functional paradigm. I am an enthusiastic learner of the BEAM ecosystem and Elixir, constantly exploring concurrency and fault-tolerant systems.
 
